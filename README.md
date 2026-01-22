@@ -25,9 +25,9 @@ The Mexican housing market contains large volumes of property data that are ofte
 Our dataset contains information on residential properties in Mexico, including housing prices, location details, and property characteristics. It is used to analyze housing trends and price variations across different regions in the Mexican real estate market
 
 
-### esults and Analysis
+### Results and Analysis
 ### Distribution of Home Prices using a Histogram
 
-<img src="images/price1.png" alt="Distribution_of_house_price" width="1100" height="400">
+![Distribution of house prices](images/price1.png) width="1100" height="400">
 
 The histogram shows the distribution of home prices in U.S. dollars. The x-axis represents the price ranges, while the y-axis indicates the frequency of properties within each range. The visualization reveals that most homes are concentrated in the lower price ranges, with the number of properties decreasing as prices increase. This right-skewed distribution suggests that affordable and mid-priced homes are more common in the dataset, while high-priced properties are relatively fewer.
