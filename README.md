@@ -28,6 +28,6 @@ Our dataset contains information on residential properties in Mexico, including 
 ### Results and Analysis
 ### Distribution of Home Prices using a Histogram
 
-![Distribution of house prices](images/price1.png) width="1100" height="400">
+![Distribution of house prices](images/price1.png)
 
 The histogram shows the distribution of home prices in U.S. dollars. The x-axis represents the price ranges, while the y-axis indicates the frequency of properties within each range. The visualization reveals that most homes are concentrated in the lower price ranges, with the number of properties decreasing as prices increase. This right-skewed distribution suggests that affordable and mid-priced homes are more common in the dataset, while high-priced properties are relatively fewer.
