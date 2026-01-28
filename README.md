@@ -38,3 +38,26 @@ The histogram shows the distribution of home prices in U.S. dollars. The x-axis 
 
 The scatter plot displays the relationship between property area (in square meters) and price (in USD) in Mexico City. Unlike Morelos, the points here are more widely dispersed, especially for larger properties, indicating more variability in prices. While there is still a general upward trend such that larger properties tend to be more expensive,the correlation appears weaker compared to Morelos. This suggests that in Mexico City, other factors beyond area (such as location, neighborhood, or amenities) may have a significant impact on property prices.
 
+#### Recommendations
+
+-Focus on developing affordable and mid-priced housing, as these dominate the market.
+
+-Prioritize smaller to medium-sized homes due to their higher frequency.
+
+-Improve housing development and infrastructure outside major urban centers to reduce overcrowding.
+
+##### Conclusion
+
+-The analysis shows that most homes are smaller to medium in size.
+
+-Home prices are right-skewed, with fewer high-priced properties.
+
+-Data cleaning and visualization helped reveal clear housing market patterns in Mexico.
+
+#### Next Steps
+
+-Build a model to predict housing prices using features like area and location.
+
+-Add more variables such as number of bedrooms and amenities.
+
+-Conduct regional or city-level comparisons for deeper insights.
