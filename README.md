@@ -37,3 +37,4 @@ The histogram shows the distribution of home prices in U.S. dollars. The x-axis 
 <img src="Images/scatter1.png" alt="House_Price_vs_Area" width="1100" height="400">
 
 The scatter plot displays the relationship between property area (in square meters) and price (in USD) in Mexico City. Unlike Morelos, the points here are more widely dispersed, especially for larger properties, indicating more variability in prices. While there is still a general upward trend such that larger properties tend to be more expensive,the correlation appears weaker compared to Morelos. This suggests that in Mexico City, other factors beyond area (such as location, neighborhood, or amenities) may have a significant impact on property prices.
+
